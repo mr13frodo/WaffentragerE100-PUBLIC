@@ -1,4 +1,4 @@
-﻿WaffenträgerE100 v.2.4
+﻿WaffenträgerE100 v.2.5
 
 
 
